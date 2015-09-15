@@ -14,8 +14,8 @@
 				<version>0.0.1-SNAPSHOT</version>
 				<configuration>
 					<host>localhost</host>
-					<port>6030</port>
-					<protocol>http</protocol>
+					<port>8090</port>
+					<protocol>https</protocol>
 					<groupName>test</groupName>
 					<instanceName>testIns</instanceName>
 					<username>admin</username>
